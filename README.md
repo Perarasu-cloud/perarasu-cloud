@@ -78,5 +78,5 @@ Gained practical exposure to defense manufacturing, CNC machining, precision man
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Perarasu Murugappan](https://www.linkedin.com/in/PerarasuMurugappan)
+* LinkedIn: [Perarasu Murugappan](https://www.linkedin.com/in/perarasum/)
 * Email: [perarasu.msp@gmail.com](mailto:perarasu.msp@gmail.com)
