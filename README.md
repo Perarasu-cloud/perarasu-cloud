@@ -4,73 +4,50 @@
 
 ### MECHATRONICS ENGINEER
 
-**DOUBLE WISHBONE SUSPENSION SYSTEM**
+# DOUBLE WISHBONE
+# SUSPENSION SYSTEM
 
-`DESIGN` • `ANALYZE` • `OPTIMIZE` • `VALIDATE`
+**DESIGN  •  SIMULATE  •  ANALYZE  •  VALIDATE**
 
 </div>
 
 ---
 
-## 🧭 PROJECT NAVIGATION
+<div align="center">
 
-**[ Overview ](#-project-overview)** ·
-**[ Engineering Workflow ](#-engineering-workflow)** ·
-**[ Design ](#️-design--cad)** ·
-**[ FEA ](#-fea-analysis)** ·
-**[ Engineering Focus ](#-engineering-focus)** ·
-**[ Tools ](#️-tools--technologies)** ·
-**[ Outcome ](#-project-outcome)**
+<img src="assets/banner.png" width="100%">
+
+</div>
 
 ---
 
-# 🚗 PROJECT OVERVIEW
+## 🚘 THE PROJECT
 
-> A mechanical design and analysis project focused on the development and evaluation of a **Double Wishbone Suspension System**.
+> **Can a suspension design be digitally designed, analyzed and validated before real-world implementation?**
 
-The suspension system was **designed and modeled using CAD**, followed by **Finite Element Analysis (FEA)** to evaluate structural performance.
-
-### 🎯 Project Goals
-
-| Focus | Description |
-|---|---|
-| 📐 **Design** | Develop the Double Wishbone Suspension System using CAD |
-| 🔩 **Geometry** | Analyze suspension geometry |
-| ⚖️ **Load Distribution** | Study load distribution within the system |
-| 🔬 **FEA** | Evaluate structural performance through simulation |
-| 📊 **Validation** | Analyze stress distribution and Factor of Safety |
+This project explores a **Double Wishbone Suspension System** through CAD modelling and Finite Element Analysis, focusing on suspension geometry, load distribution, stress, deformation and Factor of Safety.
 
 ---
 
-# 🔄 ENGINEERING WORKFLOW
+## 🔩 ENGINEERING PIPELINE
 
 ```text
-┌──────────────┐
-│    IDEA      │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ CAD DESIGN   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│  3D MODEL    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ LOAD ANALYSIS│
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     FEA      │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    STRESS    │
-│ & DEFORMATION│
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   FOS &      │
-│  VALIDATION  │
-└──────────────┘
+   💡 CONCEPT
+       │
+       ▼
+   📐 CAD MODEL
+       │
+       ▼
+   ⚖️ LOAD DISTRIBUTION
+       │
+       ▼
+   🔬 FEA
+       │
+       ▼
+   📊 STRESS + DEFORMATION
+       │
+       ▼
+   🛡️ FACTOR OF SAFETY
+       │
+       ▼
+   ✅ VALIDATION
