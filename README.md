@@ -1,108 +1,82 @@
-# Destination-Controlled Automatic Feeding Trolley for Efficient Poultry Farm Management
+# Hi 👋, I'm Perarasu M
 
-An ESP32-based automated feeding cart that travels to a selected destination along a poultry shed, dispenses feed, and reports feed levels in real time through an IoT dashboard.
+### B.Tech Mechatronics Engineering Student | Manufacturing | Automation | CAD
 
-> 📄 Conference paper: *Destination-Controlled Automatic Feeding Trolley For Efficient Poultry Farm Management* — SEEE, SASTRA Deemed University  
-> 🔗 Paper link: [add link here]
+I'm a Mechatronics Engineering student interested in manufacturing, automation, robotics, CAD/CAM, and process improvement. I enjoy developing practical engineering solutions and learning technologies used in the automotive and manufacturing industries.
 
-![Project photo](images/trolley.jpg)
-<!-- Add a photo or GIF of the working trolley here -->
+## 🚀 About Me
 
----
+* 🎓 B.Tech Mechatronics Engineering Student
+* 🏭 Interested in Manufacturing & Automotive Engineering
+* ⚙️ Interested in Automation, Robotics and Process Improvement
+* 💻 Learning Python and SQL
+* 📐 CAD & Design: AutoCAD, SolidWorks
+* 🔍 Interested in Root Cause Analysis and Kaizen
+* 📅 Expected Graduation: 2027
 
-## Overview
+## 🛠️ Technical Skills
 
-Manual feeding in poultry farms is time-consuming and often inconsistent. This project automates the process: the operator selects a destination (feeding point), the trolley moves there using encoder-based position tracking, and the load cell monitors how much feed is dispensed and how much remains.
+**Programming & Database**
 
-## Features
+* Python
+* SQL
 
-- **Destination-controlled movement**: select a feeding point and the trolley drives to it
-- **Position tracking** using a rotary encoder
-- **Feed monitoring** using a load cell with an HX711 amplifier
-- **IoT dashboard and control** through the Blynk platform
-- [Add any other feature: auto-stop, manual override, low-feed alert, etc.]
+**Design & Engineering**
 
-## Hardware
+* AutoCAD
+* SolidWorks
+* CAD/CAM
+* Manufacturing Processes
 
-| Component | Purpose |
-|-----------|---------|
-| ESP32 | Main controller, Wi-Fi connectivity |
-| Rotary encoder | Distance / position tracking |
-| Load cell + HX711 | Feed weight measurement |
-| [Motor driver model] | Drives the trolley motors |
-| [DC / geared motors] | Trolley movement |
-| [Battery / power supply] | Power |
+**Automation & Improvement**
 
-## Software and Tools
+* Automation
+* Kaizen
+* Root Cause Analysis
+* PLC & Automation
+* Robotics
 
-- Arduino IDE (or PlatformIO)
-- Blynk IoT platform
-- Libraries: `HX711`, `Blynk` [add the others you used]
+## 📌 Featured Project
 
-## How It Works
+### Double Wishbone Suspension System
 
-1. The user selects a destination from the Blynk app.
-2. The ESP32 drives the motors and counts encoder pulses to track distance.
-3. On reaching the target position, the trolley stops.
-4. The feed is dispensed while the load cell monitors the weight.
-5. Feed level and status are shown on the dashboard.
+Designed and modeled a Double Wishbone Suspension System using CAD software.
 
-<!-- Optional: add a block diagram or flowchart image here -->
+* Performed Finite Element Analysis (FEA)
+* Evaluated stress and deformation
+* Analyzed suspension geometry and load distribution
+* Validated stress distribution and Factor of Safety (FOS) through simulation
 
-## Pin Connections
+## 💼 Industry Exposure
 
-| Component | ESP32 Pin |
-|-----------|-----------|
-| Encoder A | GPIO [ ] |
-| Encoder B | GPIO [ ] |
-| HX711 DT | GPIO [ ] |
-| HX711 SCK | GPIO [ ] |
-| Motor driver IN1 | GPIO [ ] |
-| Motor driver IN2 | GPIO [ ] |
-| Motor driver ENA (PWM) | GPIO [ ] |
+### Sona Comstar — Manufacturing Intern
 
-## Setup and Usage
+Gained hands-on exposure to manufacturing processes, assembly operations, quality checks, line operations, tool changeovers, process parameters, and abnormality handling.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-2. Open the code in Arduino IDE and install the required libraries.
-3. Create a file named `secrets.h` in the `code/` folder (this file is **not** uploaded to GitHub):
-   ```cpp
-   #define WIFI_SSID     "your-wifi-name"
-   #define WIFI_PASSWORD "your-wifi-password"
-   #define BLYNK_AUTH_TOKEN "your-blynk-token"
-   ```
-4. Select your ESP32 board and port, then upload.
-5. Open the Blynk app and connect to your device.
+### Ordnance Factory — Implant Training
 
-## Project Structure
+Gained practical exposure to defense manufacturing, CNC machining, precision manufacturing, assembly operations, production systems, quality control, heat treatment, material handling, safety protocols, and maintenance practices.
 
-```
-├── code/        # ESP32 source code
-├── images/      # Photos, diagrams
-├── docs/        # Paper / report PDF
-└── README.md
-```
+## 📚 Relevant Coursework
 
-## Results
+* Manufacturing Processes
+* PLC & Automation
+* Robotics
+* CAD/CAM
 
-- [Positioning accuracy, e.g. ± __ cm over __ m]
-- [Load cell accuracy, e.g. ± __ g]
-- [Time saved compared to manual feeding, if measured]
+## 🏆 Achievements & Activities
 
-## Future Improvements
+* All India University-level Athlete – High Jump
+* Participated in Technical & Robotics Events
+* Active Member – Sports Team
+* Volunteer – Campus Events
 
-- [Idea 1, e.g. multiple feeding zones]
-- [Idea 2, e.g. obstacle detection]
+## 📜 Certifications
 
-## Author
+* Python for Beginners – ISysway
+* SolidWorks and AutoCAD – ISysway
 
-**Perarasu Murugappan**  
-B.Tech Mechatronics Engineering, SASTRA Deemed University  
-[LinkedIn](https://linkedin.com/in/PerarasuMurugappan)
+## 📫 Connect With Me
 
-## Acknowledgements
-
-Co-authors and faculty guide: [add names]
+* LinkedIn: [Perarasu Murugappan](https://www.linkedin.com/in/PerarasuMurugappan)
+* Email: [perarasu.msp@gmail.com](mailto:perarasu.msp@gmail.com)
