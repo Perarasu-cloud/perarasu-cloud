@@ -1,82 +1,76 @@
-# Hi 👋, I'm Perarasu M
+<div align="center">
 
-### B.Tech Mechatronics Engineering Student | Manufacturing | Automation | CAD
+# ⚙️ PERARASU
 
-I'm a Mechatronics Engineering student interested in manufacturing, automation, robotics, CAD/CAM, and process improvement. I enjoy developing practical engineering solutions and learning technologies used in the automotive and manufacturing industries.
+### MECHATRONICS ENGINEER
 
-## 🚀 About Me
+**DOUBLE WISHBONE SUSPENSION SYSTEM**
 
-* 🎓 B.Tech Mechatronics Engineering Student
-* 🏭 Interested in Manufacturing & Automotive Engineering
-* ⚙️ Interested in Automation, Robotics and Process Improvement
-* 💻 Learning Python and SQL
-* 📐 CAD & Design: AutoCAD, SolidWorks
-* 🔍 Interested in Root Cause Analysis and Kaizen
-* 📅 Expected Graduation: 2027
+`DESIGN` • `ANALYZE` • `OPTIMIZE` • `VALIDATE`
 
-## 🛠️ Technical Skills
+</div>
 
-**Programming & Database**
+---
 
-* Python
-* SQL
+## 🧭 PROJECT NAVIGATION
 
-**Design & Engineering**
+**[ Overview ](#-project-overview)** ·
+**[ Engineering Workflow ](#-engineering-workflow)** ·
+**[ Design ](#️-design--cad)** ·
+**[ FEA ](#-fea-analysis)** ·
+**[ Engineering Focus ](#-engineering-focus)** ·
+**[ Tools ](#️-tools--technologies)** ·
+**[ Outcome ](#-project-outcome)**
 
-* AutoCAD
-* SolidWorks
-* CAD/CAM
-* Manufacturing Processes
+---
 
-**Automation & Improvement**
+# 🚗 PROJECT OVERVIEW
 
-* Automation
-* Kaizen
-* Root Cause Analysis
-* PLC & Automation
-* Robotics
+> A mechanical design and analysis project focused on the development and evaluation of a **Double Wishbone Suspension System**.
 
-## 📌 Featured Project
+The suspension system was **designed and modeled using CAD**, followed by **Finite Element Analysis (FEA)** to evaluate structural performance.
 
-### Double Wishbone Suspension System
+### 🎯 Project Goals
 
-Designed and modeled a Double Wishbone Suspension System using CAD software.
+| Focus | Description |
+|---|---|
+| 📐 **Design** | Develop the Double Wishbone Suspension System using CAD |
+| 🔩 **Geometry** | Analyze suspension geometry |
+| ⚖️ **Load Distribution** | Study load distribution within the system |
+| 🔬 **FEA** | Evaluate structural performance through simulation |
+| 📊 **Validation** | Analyze stress distribution and Factor of Safety |
 
-* Performed Finite Element Analysis (FEA)
-* Evaluated stress and deformation
-* Analyzed suspension geometry and load distribution
-* Validated stress distribution and Factor of Safety (FOS) through simulation
+---
 
-## 💼 Industry Exposure
+# 🔄 ENGINEERING WORKFLOW
 
-### Sona Comstar — Manufacturing Intern
-
-Gained hands-on exposure to manufacturing processes, assembly operations, quality checks, line operations, tool changeovers, process parameters, and abnormality handling.
-
-### Ordnance Factory — Implant Training
-
-Gained practical exposure to defense manufacturing, CNC machining, precision manufacturing, assembly operations, production systems, quality control, heat treatment, material handling, safety protocols, and maintenance practices.
-
-## 📚 Relevant Coursework
-
-* Manufacturing Processes
-* PLC & Automation
-* Robotics
-* CAD/CAM
-
-## 🏆 Achievements & Activities
-
-* All India University-level Athlete – High Jump
-* Participated in Technical & Robotics Events
-* Active Member – Sports Team
-* Volunteer – Campus Events
-
-## 📜 Certifications
-
-* Python for Beginners – ISysway
-* SolidWorks and AutoCAD – ISysway
-
-## 📫 Connect With Me
-
-* LinkedIn: [Perarasu Murugappan](https://www.linkedin.com/in/perarasum/)
-* Email: [perarasu.msp@gmail.com](mailto:perarasu.msp@gmail.com)
+```text
+┌──────────────┐
+│    IDEA      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ CAD DESIGN   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  3D MODEL    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ LOAD ANALYSIS│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     FEA      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    STRESS    │
+│ & DEFORMATION│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   FOS &      │
+│  VALIDATION  │
+└──────────────┘
